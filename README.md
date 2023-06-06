@@ -1,7 +1,7 @@
 
 # RootNetC2
 
-RootNetC2 Is a reverse shell Command and control Server.
+RootNetC2 Is a  Command and control Server.
 And using the Compromissed server as a bot to DDoS Servers.
 
 
